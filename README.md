@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hirota_images/svg/hirota_logo_blue.svg" width="60%" alt="HIROTA logo">
+  <img src="hirota_images/svg/hirota_logo_unflavored.svg" width="60%" alt="HIROTA logo">
 </p>
 
 # HIROTA Simulator JS
