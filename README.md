@@ -32,12 +32,12 @@ All UX/UI design and implementation are made by me — from interface layout to 
 
 <br>
 
-## 🧩 Versions
+## Versions
 - **HIROTA CART 1.0:** Functional shopping cart without DOM usage. All interactions rely on `prompt`, `alert`, and `confirm`.
 
 <br>
 
-## 🛠 Technologies
+## Technologies
 - **HTML + CSS** — static UI prototype for the course  
 - **JavaScript** — main logic and flow control via prompts  
 - **Git / GitHub** — version control and workflow  
