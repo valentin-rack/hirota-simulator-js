@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="hirota_images/svg/hirota_logo_web.svg" width="100%" alt="HIROTA logo">
+  <img src="hirota_images/svg/hirota_logo_web.svg" width="90%" alt="HIROTA logo">
 </p>
 
 <br>
 
-## HIROTA
-**HIROTA** is a niche Japanese karate-gi manufacturer known for producing some of the finest karate uniforms in the world. 
-
-Despite its worldwide reputation, the brand currently has **no international online store**. They remain silent in Japan. 
+**HIROTA** is a niche Japanese karate-gi manufacturer known for producing the **BEST KARATE-GI** in the world. Despite its global reputation, the brand currently has **no international online store**. They remain silent in Japan. 
 
 You can visit HIROTA official Japanese website here:  
 
@@ -15,7 +12,7 @@ You can visit HIROTA official Japanese website here:
 
 <br>
 
-## 🌐🛒🥋 HIROTA worldwide e-commerce simulator
+# 🌐🛒🥋 HIROTA worldwide e-commerce simulator
 This project is an **e-commerce simulator** for HIROTA built in **JavaScript**.  
 The goal is to **re-imagine HIROTA as a modern international brand** while keeping the brand’s original craftsmanship and spirit intact.  
 
